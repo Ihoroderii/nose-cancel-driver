@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cleanmic_cli.dir/apps/cleanmic_cli.cpp.o -o cleanmic_cli  libcleanmic_core.a librnnoise_vendor.a -lm

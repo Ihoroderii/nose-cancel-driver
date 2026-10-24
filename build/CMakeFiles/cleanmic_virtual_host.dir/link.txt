@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cleanmic_virtual_host.dir/apps/cleanmic_virtual_host.mm.o -o cleanmic_virtual_host  libcleanmic_core.a -framework AVFoundation -framework Foundation librnnoise_vendor.a -lm

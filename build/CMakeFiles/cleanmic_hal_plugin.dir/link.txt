@@ -1,0 +1,1 @@
+/usr/bin/c++ -bundle -Wl,-headerpad_max_install_names -o CleanMic CMakeFiles/cleanmic_hal_plugin.dir/src/ipc/SharedAudioPipe.cpp.o CMakeFiles/cleanmic_hal_plugin.dir/src/platform/macos/CleanMicAudioServerPlugIn.cpp.o  -framework CoreAudio -framework CoreFoundation

@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.env
+.venv
+env/
+venv/
+
+# PyTorch checkpoints and model weights
+*.pt
+*.pth
+*.pkl
+
+# Data files (HDF5)
+*.hdf5
+*.h5
+data/hdf5*/
+data/hdf5_full/
+data/hdf5_stage_a/
+
+# Training runs
+runs/
+mlruns/
+mlflow.db
+logs/
+checkpoints/
+
+# TensorBoard
+lightning_logs/
+tb_logs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Audio files (generated)
+*.wav
+*.flac
+*.mp3
+
+# Smoke test outputs
+data/manifests_smoke/
+
+# huggingface
+huggingface
+
+# Config with secrets
+*.local.ini
+*.local.cfg
+.env.local
+
+# Deployment release artifacts are included directly in the repo

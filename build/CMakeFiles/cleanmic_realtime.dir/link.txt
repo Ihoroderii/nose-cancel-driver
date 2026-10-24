@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cleanmic_realtime.dir/apps/cleanmic_realtime.mm.o -o cleanmic_realtime  libcleanmic_core.a -framework AVFoundation -framework Foundation librnnoise_vendor.a -lm

@@ -1,0 +1,10 @@
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/rnnoise_vendor.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_core.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_cli.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/list_audio_devices.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_realtime.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_virtual_host.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_hal_plugin.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/cleanmic_driver_bundle.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/edit_cache.dir
+/Users/ihoroderii/wrk/nose-cancel-driver/build/CMakeFiles/rebuild_cache.dir
